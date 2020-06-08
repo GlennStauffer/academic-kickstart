@@ -6,24 +6,54 @@
 [[main]]
   name = "Home"
   url = "#about"
-  weight = 10
+  weight = 1
 
 [[main]]
-  name = "Bikes"
-  url = "bikes"
-  weight = 20
+  name = "CB750"
+  url = "bikes/cb750"
+  weight = 2
+
+[[main]]
+  name = "CB650"
+  url = "bikes/cb650"
+  weight = 3
+
+[[main]]
+  name = "CB550"
+  url = "bikes/cb550"
+  weight = 4
+
+[[main]]
+  name = "CB500"
+  url = "bikes/cb500"
+  weight = 5
+
+[[main]]
+  name = "CB400"
+  url = "bikes/cb400"
+  weight = 6
+
+[[main]]
+  name = "CB350"
+  url = "bikes/cb350"
+  weight = 7
 
 [[main]]
   name = "Club"
   url = "club"
-  weight = 30
+  weight = 10
 
 [[main]]
   name = "Forums"
   url = "http://forums.sohc4.net"
-  weight = 40
+  weight = 20
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 30
+
+[[main]]
+  name = "Donate"
+  url = "club/donate"
+  weight = 40
