@@ -1,3 +1,0 @@
-# The SOHC/4 Owners Club
-
-About the club...

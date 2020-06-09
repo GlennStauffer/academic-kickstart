@@ -2,12 +2,17 @@
 title: "CB500"
 date: 2020-04-20
 description: "CB500 Model Guide"
-categories:
-  - "Bikes"
-  - "CB500"
-tags:
-  - "CB500"
+tags: ["BIKES", "CB500"]
+categories: ["Bikes"]
+weight: 6
+commentable: true
+draft: false
+type: docs
 toc: true
+menu:
+  bikes:
+    name: CB500
+    weight: 6
 ---
 
 ## History

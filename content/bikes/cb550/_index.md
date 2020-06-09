@@ -1,13 +1,18 @@
 ---
 title: "CB550"
-date: "2020-04-20"
-description: "CB550 Specifications"
-categories:
-  - "Bikes"
-  - "CB550"
-tags:
-  - "CB550"
+date: 2020-04-20
+description: "CB550 Model Guide"
+tags: ["BIKES", "CB550"]
+categories: ["Bikes"]
+weight: 5
+commentable: true
+draft: false
+type: docs
 toc: true
+menu:
+  bikes:
+    name: CB550
+    weight: 5
 ---
 
 <image of a cb550>

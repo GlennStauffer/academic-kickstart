@@ -1,7 +1,18 @@
 ---
 title: "CB650"
-date: 2019-04-18T06:20:18-04:00
+date: 2020-04-20
 description: "CB650 Model Guide"
+tags: ["BIKES", "CB650"]
+categories: ["Bikes"]
+weight: 4
+commentable: true
+draft: false
+type: docs
+toc: true
+menu:
+  bikes:
+    name: CB650
+    weight: 4
 ---
 
 ## History
@@ -24,7 +35,7 @@ The year is 1978, model-year 1979, and Honda stopped production of the SOHC/4 CB
 
 ### CB650 '79
 
-<image of a 1979 CB650>
+![1979 CB650](/img/cb650_79_black.jpb)
 
 The 1979 CB650 was available in two color schemes: Candy Muse Red with Maroon and Black  with Red.  The gas tank and side covers had a 2-tone paint scheme with gold pinstripes and featured a red and gold "650" side cover decal.  The wheels were black comstars.  The exhaust was a 4-into-2 design.
 

@@ -50,6 +50,8 @@ subtitle = "Single Cam Therefore I am!"
  css_class = ""
 +++
 
+![Site Image](/img/2007logo.jpg)
+
 Welcome to the **SOHC/4 Owners Club Website**!
 
 In 1969, Honda started a motorcycle revolution with the introduction of the CB750, the world's first superbike.  Over the next decade, this single model evolved into a popular line of horizonal four cylinder motorcycles with something for every rider and riding style - from the diminutive CB350F to the three CB750 models.

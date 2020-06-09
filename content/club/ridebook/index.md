@@ -1,0 +1,4 @@
+---
+widget: blank
+headless: true
+---

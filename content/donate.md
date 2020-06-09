@@ -7,7 +7,6 @@ categories:
 tags:
   - "club"
 toc: true
-menu: main
 ---
 
 # Support the SOHC/4 Owners Club

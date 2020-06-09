@@ -2,12 +2,17 @@
 title: "CB750F"
 date: "2020-04-20"
 description: "CB750F Model Guide"
-categories:
-  - "Bikes"
-  - "CB750F"
-tags:
-  - "CB750F"
+tags: ["BIKES", "CB750F"]
+categories: ["Bikes"]
+weight: 2
+commentable: true
+draft: false
+type: docs
 toc: true
+menu:
+  bikes:
+    name: CB750F
+    weight: 2
 ---
 
 # Honda CB750F (1975-1978)
